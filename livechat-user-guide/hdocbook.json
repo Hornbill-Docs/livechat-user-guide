@@ -1,0 +1,29 @@
+{
+  "docId": "livechat-user-guide",
+  "title": "Live Chat User Guide",
+  "description": "User guide for the Hornbill Live Chat app",
+  "publicSource": "https://github.com/Hornbill-Docs/livechat-user-guide",
+  "productFamily": "hdocs",
+  "version": "0.0.0",
+  "audience": [
+    "public"
+  ],
+  "languages": [
+    "en"
+  ],
+  "navigation": {
+    "items": [
+      {
+        "text": "Introduction",
+        "expand": true,
+        "items": [
+          {
+            "text": "Welcome",
+            "link": "livechat-user-guide/index"
+          }
+        ]
+      }
+    ]
+  },
+  "tags": []
+}
