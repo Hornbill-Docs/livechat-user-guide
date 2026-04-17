@@ -14,14 +14,20 @@
   "navigation": {
     "items": [
       {
-        "text": "Introduction",
-        "expand": true,
-        "items": [
-          {
-            "text": "Welcome",
-            "link": "livechat-user-guide/index"
-          }
-        ]
+        "text": "Overview",
+        "link": "livechat-user-guide/index"
+      },
+      {
+        "text": "Chat Sessions",
+        "link": "livechat-user-guide/chat-sessions"
+      },
+      {
+        "text": "Chat Session",
+        "link": "livechat-user-guide/chat-session"
+      },
+      {
+        "text": "Live Chat",
+        "link":"livechat-user-guide/live-chat"
       }
     ]
   },
