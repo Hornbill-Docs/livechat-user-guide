@@ -18,16 +18,16 @@
         "link": "livechat-user-guide/index"
       },
       {
-        "text": "Chat Sessions",
+        "text": "Managing Chat Sessions and Queues",
         "link": "livechat-user-guide/chat-sessions"
       },
       {
-        "text": "Chat Session",
+        "text": "Chat Session details",
         "link": "livechat-user-guide/chat-session"
       },
       {
         "text": "Live Chat",
-        "link":"livechat-user-guide/live-chat"
+        "link": "livechat-user-guide/live-chat"
       }
     ]
   },
