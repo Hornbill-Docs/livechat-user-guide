@@ -4,7 +4,7 @@
   "description": "User guide for the Hornbill Live Chat app",
   "publicSource": "https://github.com/Hornbill-Docs/livechat-user-guide",
   "productFamily": "hdocs",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "audience": [
     "public"
   ],
@@ -18,7 +18,7 @@
         "link": "livechat-user-guide/index"
       },
       {
-        "text": "Managing Chat Sessions and Queues",
+        "text": "Managing Chat Sessions",
         "link": "livechat-user-guide/chat-sessions"
       },
       {
