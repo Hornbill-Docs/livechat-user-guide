@@ -8,7 +8,7 @@ The list of chat sessions can be found in the Chat Session Console, where agents
 
 * **Search for Session**: Use this search bar to quickly find specific chat sessions by entering a session ID or a customer's name.
 * **Filter by Status**: Use this dropdown to filter chat sessions based on their current status.
-  * **Waiting**: The chat session is waiting for a response from the customer or agent.
+  * **Waiting**: The chat session is waiting for a response from an agent.
   * **Moving**: The chat session is being transferred to another agent or queue.
   * **In Progress**: The chat session is currently active and being handled by an agent.
   * **Solved**: The chat session has been resolved and no further action is needed.
@@ -25,9 +25,11 @@ Snippets are pre-defined messages that agents can use to quickly respond to comm
 * **Title**: The name of the snippet, which should be descriptive of its content for easy identification.
 * **Content**: The actual message that will be sent to the customer when the snippet is used. This can include text, links, or even placeholders for dynamic content.
 
-## Notifications
+## Notifications and Popups
 
-Notification popups can be enabled in the top right corner of the Chat Session Console. These popups provide real-time updates on new chat sessions and messages, ensuring that agents are always informed of incoming customer inquiries and can respond promptly.
+Notifications and popups provide real-time updates on new chat sessions and messages, ensuring that agents are always informed of incoming customer inquiries and can respond promptly.
+
+![New Chat Notification](/_books/livechat-user-guide/images/new-chat-notification.png)
 
 ### Chat Popups
 
